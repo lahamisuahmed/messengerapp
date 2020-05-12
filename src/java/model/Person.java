@@ -17,16 +17,6 @@ public class Person {
     public Person() {
     }
 
-//    public Person(String name, int age, String id, String address, String dob, int height, double salary) {
-//        this.name = name;
-//        this.age = age;
-//        this.id = id;
-//        this.address = address;
-//        this.dob = dob;
-//        this.height = height;
-//        this.salary = salary;
-//    }
-
     public static class Builder {
 
         private String name;
